@@ -1,0 +1,17 @@
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.csprojAssemblyReference.cache
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.Properties.Resources.resources
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.csproj.GenerateResource.cache
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.csproj.CoreCompileInputs.cache
+C:\Users\phuoc\source\repos\AppQLSV\bin\Debug\AppQLSV.exe.config
+C:\Users\phuoc\source\repos\AppQLSV\bin\Debug\AppQLSV.exe
+C:\Users\phuoc\source\repos\AppQLSV\bin\Debug\AppQLSV.pdb
+C:\Users\phuoc\source\repos\AppQLSV\bin\Debug\EntityFramework.dll
+C:\Users\phuoc\source\repos\AppQLSV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phuoc\source\repos\AppQLSV\bin\Debug\EntityFramework.xml
+C:\Users\phuoc\source\repos\AppQLSV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.csproj.CopyComplete
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.exe
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.pdb
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.GUI.frmLopChiTiet.resources
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.FormMain.resources
+C:\Users\phuoc\source\repos\AppQLSV\obj\Debug\AppQLSV.GUI.ThemSinhVien.resources
